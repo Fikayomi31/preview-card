@@ -148,7 +148,7 @@ main {
     }
     .mobile-view {
         display: block;
-        width: auto ;
+        width: 90% ;
         height: 250px;
         position: relative;
         top: -3px;
